@@ -37,6 +37,9 @@
     <div id="site_content">
         @Html.Partial("_Search")
         @RenderBody()
+
+        @*call child action to render sidebar*@
+        @Html.Action("Sidebars")
     </div>
  
      <!-- Footer -->
