@@ -14,6 +14,12 @@ namespace MarioBlog
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
             routes.MapRoute(
+                "Post",
+                "Archive/{Year}/{Month}/{Title}",
+                new { controller = "Blog", action = "Post" }
+                );
+
+            routes.MapRoute(
                 "Tag",
                 "Tag/{tag}",
                 new { controller = "Blog", action = "Tag" }
