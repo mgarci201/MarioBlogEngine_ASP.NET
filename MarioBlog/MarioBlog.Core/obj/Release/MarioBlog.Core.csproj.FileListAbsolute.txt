@@ -1,0 +1,15 @@
+C:\Users\supermario\Documents\Visual Studio 2012\Projects\MarioBlog\MarioBlog.Core\bin\Release\MarioBlog.Core.dll
+C:\Users\supermario\Documents\Visual Studio 2012\Projects\MarioBlog\MarioBlog.Core\bin\Release\MarioBlog.Core.pdb
+C:\Users\supermario\Documents\Visual Studio 2012\Projects\MarioBlog\MarioBlog.Core\bin\Release\FluentNHibernate.dll
+C:\Users\supermario\Documents\Visual Studio 2012\Projects\MarioBlog\MarioBlog.Core\bin\Release\Iesi.Collections.dll
+C:\Users\supermario\Documents\Visual Studio 2012\Projects\MarioBlog\MarioBlog.Core\bin\Release\NHibernate.dll
+C:\Users\supermario\Documents\Visual Studio 2012\Projects\MarioBlog\MarioBlog.Core\bin\Release\Ninject.dll
+C:\Users\supermario\Documents\Visual Studio 2012\Projects\MarioBlog\MarioBlog.Core\bin\Release\Ninject.Web.Common.dll
+C:\Users\supermario\Documents\Visual Studio 2012\Projects\MarioBlog\MarioBlog.Core\bin\Release\FluentNHibernate.xml
+C:\Users\supermario\Documents\Visual Studio 2012\Projects\MarioBlog\MarioBlog.Core\bin\Release\Iesi.Collections.xml
+C:\Users\supermario\Documents\Visual Studio 2012\Projects\MarioBlog\MarioBlog.Core\bin\Release\NHibernate.xml
+C:\Users\supermario\Documents\Visual Studio 2012\Projects\MarioBlog\MarioBlog.Core\bin\Release\Ninject.xml
+C:\Users\supermario\Documents\Visual Studio 2012\Projects\MarioBlog\MarioBlog.Core\bin\Release\Ninject.Web.Common.xml
+C:\Users\supermario\Documents\Visual Studio 2012\Projects\MarioBlog\MarioBlog.Core\obj\Release\MarioBlog.Core.dll
+C:\Users\supermario\Documents\Visual Studio 2012\Projects\MarioBlog\MarioBlog.Core\obj\Release\MarioBlog.Core.pdb
+C:\Users\supermario\Documents\Visual Studio 2012\Projects\MarioBlog\MarioBlog.Core\obj\Release\MarioBlog.Core.csprojResolveAssemblyReference.cache

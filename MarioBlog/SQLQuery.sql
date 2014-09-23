@@ -1,0 +1,2 @@
+﻿select PostedOn
+from Post
