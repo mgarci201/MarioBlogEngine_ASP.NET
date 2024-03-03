@@ -5,7 +5,7 @@ ASP.NET Blog Engine | Additional stuff I have added | More new features to be ad
 
 
 
-credits to: PrideParrot | Scott Guthrie MVC Tutorials | Rahul Rajat Singh
+credits to: Scott Guthrie MVC Tutorials | Rahul Rajat Singh
 
 
 Thinking of implementing this in .NET Core now - when I get the time
